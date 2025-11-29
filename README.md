@@ -1,6 +1,6 @@
 ## Custom Notes
 
-This project is based on Mastodon v4.2.10.  
+This project is based on Mastodon v4.5.10.  
 This build is used for https://sleep.etoile.ink/
 
 ## Custom Modifications
